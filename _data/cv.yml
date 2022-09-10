@@ -71,7 +71,7 @@
 - title: Conference Presentations
   type: time_table
   contents:
-    - title:Computational Methods for Cultural Heritage Workshop
+    - title: Computational Methods for Cultural Heritage Workshop
 	institution: TBD
       year: 2022
       description:
@@ -90,8 +90,6 @@
       year: 2022
       description:
         - Virtual poster presentation related to underdrawing visualization work done with ARTICT.
-
-
 
 - title: Honors and Awards
   type: nested_list
