@@ -1,7 +1,7 @@
 ---
 layout: page
 title: projects&code
-permalink: /projects/
+permalink: /projects-code/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 2
