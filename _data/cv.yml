@@ -71,23 +71,23 @@
 - title: Conference Presentations
   type: time_table
   contents:
-
     - title:Computational Methods for Cultural Heritage Workshop
+	institution: TBD
       year: 2022
       description:
         - Invited talk to be given in person at the end of September at the British Museum, London, UK.
 
     - title: IEEE International Conference on Computational Photography (ICCP)
-      year: 2022
       institution: Enhancing Underdrawing Visualization using Adaptive and Localized Image Analysis of Reflectance Hyperspectral Imaging Data from a 15th Century Painting
+      year: 2022
       description:
         - In-persona poster presentation at the California Institute of Technology, Pasadena, California.
         - Recieved an NSF grant for travel and conference expenses.
         - Poster related to underdrawing visualization work done with ARTICT.
 
     - title: Computational approaches for technical imaging in cultural heritage (7th IP4AI meeting)
-      year: 2022
       institution: Enhancing Underdrawing Visualization using Adaptive and Localized Image Analysis of Reflectance Hyperspectral Imaging Data from a 15th Century Painting
+      year: 2022
       description:
         - Virtual poster presentation related to underdrawing visualization work done with ARTICT.
 
