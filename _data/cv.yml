@@ -77,7 +77,7 @@
       description:
         - Invited talk to be given in person at the end of September at the British Museum, London, UK.
 
-    - title: IEEE International Conference on Computational Photography (ICCP)
+    - title: IEEE International Conference on Computational Photography - ICCP
       institution: Enhancing Underdrawing Visualization using Adaptive and Localized Image Analysis of Reflectance Hyperspectral Imaging Data from a 15th Century Painting
       year: 2022
       description:
@@ -85,7 +85,7 @@
         - Recieved an NSF grant for travel and conference expenses.
         - Poster related to underdrawing visualization work done with ARTICT.
 
-    - title: Computational approaches for technical imaging in cultural heritage (7th IP4AI meeting)
+    - title: Computational approaches for technical imaging in cultural heritage - 7th IP4AI meeting
       institution: Enhancing Underdrawing Visualization using Adaptive and Localized Image Analysis of Reflectance Hyperspectral Imaging Data from a 15th Century Painting
       year: 2022
       description:
@@ -99,7 +99,7 @@
       items:
         - Graduation with Distinction in Mathematics
         - Magna Cum Laude Latin Honors
-        - PRUV Fellowship (funded research supported by the NSF)
+        - PRUV Fellowship - funded research supported by the NSF
         - HackDuke 2020 Wolfram Prize
         - HackDuke 2019 Capital One Best Financial Hack
     - title: Earlier awards
@@ -123,5 +123,5 @@
   type: list
   contents:
     - <u>Cello performance and chamber music:</u> I have been practicing and performaning cello since I was 5 years old.
-    - <u>Ultimate (or frisbee, disc):</u> I enjoy playing frisbee and played on an intermural team at Duke Univeristy.
+    - <u>Ultimate, frisbee, disc:</u> I enjoy playing frisbee and played on an intermural team at Duke Univeristy.
     - <u>Basketball:</u> Duke University made me a fan.
