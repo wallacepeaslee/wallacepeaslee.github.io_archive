@@ -68,14 +68,40 @@
         - Moderated and distribute information to a group of approximately 1,500 scholars, supporting the development of the Research Africa scholarly network.
         - Previously an associate editor from 2019-2020.
 
+- title: Conference Presentations
+  type: time_table
+  contents:
+
+    - title:Computational Methods for Cultural Heritage Workshop
+      year: 2022
+      description:
+        - Invited talk to be given in person at the end of September at the British Museum, London, UK.
+
+    - title: IEEE International Conference on Computational Photography (ICCP)
+      year: 2022
+      institution: Enhancing Underdrawing Visualization using Adaptive and Localized Image Analysis of Reflectance Hyperspectral Imaging Data from a 15th Century Painting
+      description:
+        - In-persona poster presentation at the California Institute of Technology, Pasadena, California.
+        - Recieved an NSF grant for travel and conference expenses.
+        - Poster related to underdrawing visualization work done with ARTICT.
+
+    - title: Computational approaches for technical imaging in cultural heritage (7th IP4AI meeting)
+      year: 2022
+      institution: Enhancing Underdrawing Visualization using Adaptive and Localized Image Analysis of Reflectance Hyperspectral Imaging Data from a 15th Century Painting
+      description:
+        - Virtual poster presentation related to underdrawing visualization work done with ARTICT.
+
+
 
 - title: Honors and Awards
   type: nested_list
   contents:
     - title: Undergraduate awards
+      institution: Research Africa, Duke University
       items:
         - Graduation with Distinction in Mathematics
         - Magna Cum Laude Latin Honors
+        - PRUV Fellowship (funded research supported by the NSF)
         - HackDuke 2020 Wolfram Prize
         - HackDuke 2019 Capital One Best Financial Hack
     - title: Earlier awards
@@ -88,16 +114,16 @@
   contents:
     - title: Mathematics of information
       items:
-        - I am interested in mathematics applied to data, particularly images.
-        - I particularly study find high-dimensional data and data-reduction problems.
+        - I am interested in mathematics applied to data, especially images.
+        - I study high-dimensional data and data-reduction problems.
     - title: Topics from pure mathematics
       items:
-        - I enjoy learning some elementary number theory in my free time.
+        - I enjoy learning elementary number theory in my free time.
         - I also have an interest in harmonic analysis arising from my work with Professor Ingrid Daubechies.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Cello:</u> I have been practicing and performaning cello since I was 5 years old.
-    - <u>Ultimate ,frisbiee/disc,:</u> I enjoy playing frisbee and played on an intermural team at Duke Univeristy.
+    - <u>Cello performance and chamber music:</u> I have been practicing and performaning cello since I was 5 years old.
+    - <u>Ultimate/frisbiee/disc:</u> I enjoy playing frisbee and played on an intermural team at Duke Univeristy.
     - <u>Basketball:</u> Duke University made me a fan.
