@@ -68,6 +68,17 @@
         - Moderated and distribute information to a group of approximately 1,500 scholars, supporting the development of the Research Africa scholarly network.
         - Previously an associate editor from 2019-2020.
 
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD
+      institution: University of Cambridge, Cambridge, UK
+      year: 2022-now
+      description:
+        - Studying mathematics for information and image processing, with a focus on applications to arts and cultural heritage.
+        - Collaborating with the Cambridge Image Analysis Group and supervised by Professor Carola-Bibiane Schonlieb.
+        - Funded by Engineering and Physical Sciences Research Council
+
 - title: Honors and Awards
   type: nested_list
   contents:
