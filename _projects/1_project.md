@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Mathematics for Art Investigation
+description: Problems in mathematics inspired by problems in art investigation and cultural heritage.
 img: assets/img/12.jpg
+redirect: https://art-ict.github.io/artict/home.html
 importance: 1
 category: work
 ---

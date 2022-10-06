@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
+title: Forbidden Configurations
+description: An ongoing combinatorics project beginning with Budapest Semesters in Mathematics
 img: assets/img/3.jpg
 importance: 2
+redirect: https://www.combinatorics.org/ojs/index.php/eljc/article/view/DS20
 category: work
 ---
 
