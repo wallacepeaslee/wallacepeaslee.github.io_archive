@@ -2,10 +2,10 @@
 layout: page
 title: projects&code
 permalink: /projects-code/
-description: A growing collection of your cool projects.
+description: A growing collection of projects.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [work]
 horizontal: false
 ---
 

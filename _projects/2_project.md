@@ -2,7 +2,7 @@
 layout: page
 title: Forbidden Configurations
 description: An ongoing combinatorics project beginning with Budapest Semesters in Mathematics
-img: assets/img/3.jpg
+img: assets/img/binary-matrix-image.png
 redirect: https://www.combinatorics.org/ojs/index.php/eljc/article/view/DS20
 importance: 2
 category: work
