@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Mathematics for Applications in Cultural Heritage
-description: Mathematics applied to cultural heritage
+title: Mathematics for Cultural Heritage
+description: Mathematics for Applications in Cultural Heritage
 img: assets/img/Mach_logo.png
 redirect: https://mach.maths.cam.ac.uk/
 importance: 3
