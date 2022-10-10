@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: Mathematics for Applications in Cultural Heritage
+description: Mathematics applied to cultural heritage
 img: assets/img/Mach_logo.png
 redirect: https://mach.maths.cam.ac.uk/
 importance: 3
