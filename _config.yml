@@ -82,7 +82,7 @@ contact_note: >
 google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
-google_site_verification: 1m4rE8Ow8wEHC1R-nd0QcI0crNCyYuliV9N_C5AODTs # your google-site-verification ID (Google Search Console)
+google_site_verification: # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
