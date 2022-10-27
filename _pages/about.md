@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Mathematics PhD Student at Cambridge. Previously at Duke. <a href = 'https://www.damtp.cam.ac.uk/person/wep25'>Mathematics</a> for <a href='http://www.damtp.cam.ac.uk/research/cia/cambridge-image-analysis'>image processing</a> and <a href='https://art-ict.github.io/artict/home.html'>art</a>.
+subtitle: Mathematics PhD Student at Cambridge. Previously at Duke. <a href = 'https://www.maths.cam.ac.uk/person/wep25'>Mathematics</a> for <a href='http://www.damtp.cam.ac.uk/research/cia/cambridge-image-analysis'>image processing</a> and <a href='https://art-ict.github.io/artict/home.html'>art</a>.
 #Mathematics PhD Student # Mathematics PhD student at the University of Cambridge. #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
