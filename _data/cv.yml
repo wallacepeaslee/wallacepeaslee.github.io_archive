@@ -5,8 +5,8 @@
       institution: University of Cambridge, Cambridge, UK
       year: 2022-now
       description:
-        - Studying mathematics arisingn from problems in signal and image processing, with a focus on applications to art investigation and cultural heritage.
-        - Collaborating with the Cambridge Image Analysis Group and supervised by Professor Carola-Bibiane Schonlieb.
+        - Studying mathematics arising from applications of signal and image processing to art investigation and cultural heritage.
+        - Supervised by Professor Carola-Bibiane Schonlieb and part of the Cambridge Image Analysis Group.
         - Funded by the UKRI Engineering and Physical Sciences Research Council
     - title: Bacholer of Science in Mathematics, Bacholer of Science in Computer Science
       institution: Duke University, Durham, NC, USA
@@ -24,9 +24,8 @@
       year: 2020-2022
       description:
         - Develop algorithms for art analysis using high-dimensional and multimodal data from scientific imaging of art.
-            - Apply dimension reduction, variations of wavelet transforms, machine learning, and other signal processing.
-        - Suprevised by Profossor Ingrid Daubechies and the international ARTICT team, with multiple semesters of independent study.
-            - Produced reports "Investigating Art with Image Processing and Machine Learning and Mathematics" and "Image Processing for Art Investigation," alongside funded summer research
+        - Apply and develop dimension reduction methods, variations of wavelet transforms, machine learning, and other signal processing methods.
+        - Suprevised by Profossor Ingrid Daubechies and the international ARTICT team, with multiple semesters of independent study. Produced reports "Investigating Art with Image Processing and Machine Learning and Mathematics" and "Image Processing for Art Investigation," alongside funded summer research.
         - Conference Presentations
             - Poster presentation at Computational Approaches for Technical Imaging in Cultural Heritage ,7th IP4AI meeting, 2022.
             - Poster presentation at International Conference on Computational Photography 2022.
@@ -36,9 +35,8 @@
       year: 2021-2022
       description:
         - Top undergrduate research fellowship at Duke University, supported by NSF.
-        - Researched topics related to cohomology and combinatorics under the guidance of Professor Joseph Rabinoff.
-           - Studied differential forms, Dolbeault cohomology, metric graphs, and other related topics.
-           - Generalized results from Professor Joseph Rabinoff for Dolbeault cohomology groups to a larger set of metric graphs, leading to a senior thesis and graduation with distinciton in mathematics.
+        - Studied topics related to cohomology and combinatorics under the guidance of Professor Joseph Rabinoff.
+        - Generalized results from Professor Joseph Rabinoff for Dolbeault cohomology groups to a larger set of metric graphs, leading to a senior thesis and graduation with distinciton in mathematics.
 
     - title: Budapest Semesters in Mathematics
       institution: BSM
@@ -52,7 +50,7 @@
       year: 2022
       description:
         - Undergraduate Teaching Assistant for COMPSCI 527 - Computer Vision, a graduate computer science course at Duke University taught by Professor Carolo Tomasi.
-                - Supported students through weekly office hours and grading.
+        - Supported students through weekly office hours and grading.
 
     - title: Data Science Intern
       institution: Navigen Pharmaceuticals
