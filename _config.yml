@@ -56,9 +56,9 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 
 linkedin_username: wallacepeaslee # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
+scholar_userid: SqbHgkoAAAAJ # your Google Scholar ID
 orcid_id: 0000-0002-5274-9035 # your ORCID ID
-medium_username: wallacepeaslee # your Medium username
+medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
@@ -68,7 +68,7 @@ keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
-twitter_username: WallacePeaslee # your Twitter handle
+twitter_username: # your Twitter handle
 github_username: WallacePeaslee # your GitHub user name
 gitlab_username: # your GitLab user name
 
@@ -107,8 +107,6 @@ disqus_shortname: # al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other exteranl sources,
 # you can display them in your blog by adding a link to the RSS feed.
  external_sources:
-   - name: medium.com
-     rss_url: https://medium.com/@wallacepeaslee/feed
 
 # -----------------------------------------------------------------------------
 # Collections
