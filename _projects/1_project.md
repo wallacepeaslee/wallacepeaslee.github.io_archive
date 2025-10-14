@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ARTICT
-description: rt Through the ICT Lens: Big Data Processing Tools to Support the Technical Study, Preservation and Conservation of Old Master Paintings​.
+description: Art Through the ICT Lens
 img: assets/img/ARTICT_Goya.png
 redirect: https://art-ict.github.io/artict/home.html
 importance: 1
