@@ -1,10 +1,10 @@
 ---
 layout: page
-title: ArCH
-description: AI for Cultural Heritage Hub
-img: assets/img/mesolex_gesso_micro_lab_2025-2121x1515.jpg
-redirect: https://www.lib.cam.ac.uk/research-institute/projects/arch
-importance: 2
+title: Reconstructing Music Manuscripts
+description: AI meets cultural heritage – Non-invasive imaging and machine learning techniques for the reconstruction of degraded historical sheet music
+img: assets/img/Caius_Choirbook.jpg
+redirect: https://science.ai.cam.ac.uk/news/2024-12-09-exploring-novel-applications-of-ai-for-research-and-innovation-%E2%80%93-announcing-our-2024-funded-projects.html
+importance: 3
 category: work
 ---
 

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Forbidden Configurations
-description: An extremal combinatorics project that began with Budapest Semesters in Mathematics
-img: assets/img/binary-matrix-image.png
-redirect: https://arxiv.org/abs/2312.11446
-importance: 10
+title: ArCH
+description: AI for Cultural Heritage Hub
+img: assets/img/mesolex_gesso_micro_lab_2025-2121x1515.jpg
+redirect: https://www.lib.cam.ac.uk/research-institute/projects/arch
+importance: 2
 category: work
 ---
 
