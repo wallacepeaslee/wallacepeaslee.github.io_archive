@@ -73,14 +73,14 @@ github_username: WallacePeaslee # your GitHub user name
 gitlab_username: # your GitLab user name
 
 contact_note: >
-  Feel free to reach out via email or the other platforms above.
+  Feel free to reach out via email (wep25 at cam dot ac dot uk) or the other platforms above.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
 google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
-panelbear_analytics: 6Gf5vJBmtkD # panelbear analytics site ID (format: XXXXXXXXX)
+panelbear_analytics: # 6Gf5vJBmtkD # panelbear analytics site ID (format: XXXXXXXXX)
 
 google_site_verification: lVnyPT-rQJItpnKcUBTiJHuDMs-nCHKihIqIHvuiOy0 # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
@@ -107,6 +107,8 @@ disqus_shortname: # al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other exteranl sources,
 # you can display them in your blog by adding a link to the RSS feed.
  external_sources:
+   - name: medium.com
+     rss_url: https://medium.com/@wallacepeaslee/feed
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -273,7 +275,7 @@ jekyll-diagrams:
 # -----------------------------------------------------------------------------
 
 enable_google_analytics:    false  # enables google analytics
-enable_panelbear_analytics: true  # enables panelbear analytics
+enable_panelbear_analytics: false  # enables panelbear analytics
 enable_google_verification: true  # enables google site verification
 enable_bing_verification:   false  # enables bing site verification
 enable_masonry:             true   # enables automatic project cards arangement
