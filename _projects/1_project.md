@@ -2,7 +2,7 @@
 layout: page
 title: ARTICT
 description: Art Through the ICT Lens
-img: assets/img/ARTICT_Goya.png
+img: /assets/img/ARTICT_Goya.png
 redirect: https://art-ict.github.io/artict/home.html
 importance: 1
 category: work
