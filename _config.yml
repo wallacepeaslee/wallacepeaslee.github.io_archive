@@ -56,9 +56,9 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 
 linkedin_username: wallacepeaslee # your LinkedIn user name
-scholar_userid: SqbHgkoAAAAJ # your Google Scholar ID
+scholar_userid: # your Google Scholar ID
 orcid_id: 0000-0002-5274-9035 # your ORCID ID
-medium_username: # your Medium username
+medium_username: wallacepeaslee # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
@@ -68,19 +68,19 @@ keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
-twitter_username: # your Twitter handle
+twitter_username: WallacePeaslee # your Twitter handle
 github_username: WallacePeaslee # your GitHub user name
 gitlab_username: # your GitLab user name
 
 contact_note: >
-  Feel free to reach out via email (wep25 at cam dot ac dot uk) or the other platforms above.
+  Feel free to reach out via email or the other platforms above.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
 google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
-panelbear_analytics: # 6Gf5vJBmtkD # panelbear analytics site ID (format: XXXXXXXXX)
+panelbear_analytics: 6Gf5vJBmtkD # panelbear analytics site ID (format: XXXXXXXXX)
 
 google_site_verification: lVnyPT-rQJItpnKcUBTiJHuDMs-nCHKihIqIHvuiOy0 # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
@@ -275,7 +275,7 @@ jekyll-diagrams:
 # -----------------------------------------------------------------------------
 
 enable_google_analytics:    false  # enables google analytics
-enable_panelbear_analytics: false  # enables panelbear analytics
+enable_panelbear_analytics: true  # enables panelbear analytics
 enable_google_verification: true  # enables google site verification
 enable_bing_verification:   false  # enables bing site verification
 enable_masonry:             true   # enables automatic project cards arangement

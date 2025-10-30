@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Reconstructing Music Manuscripts
-description: AI meets cultural heritage – Non-invasive imaging and machine learning techniques for the reconstruction of degraded historical sheet music
-img: assets/img/Caius_Choirbook.jpg
-redirect: https://science.ai.cam.ac.uk/news/2024-12-09-exploring-novel-applications-of-ai-for-research-and-innovation-%E2%80%93-announcing-our-2024-funded-projects.html
+title: Mathematics for Cultural Heritage
+description: Mathematics for Applications in Cultural Heritage
+img: assets/img/Mach_logo.png
+redirect: https://mach.maths.cam.ac.uk/
 importance: 3
 category: work
 ---

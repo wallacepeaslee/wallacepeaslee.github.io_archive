@@ -1,8 +1,8 @@
 ---
 layout: page
-title: ARTICT
-description: Art Through the ICT Lens
-img: /assets/img/ARTICT_Goya.png
+title: Mathematics for Art Investigation
+description: Problems in mathematics inspired by problems in art investigation and cultural heritage.
+img: assets/img/ARTICT_Goya.png
 redirect: https://art-ict.github.io/artict/home.html
 importance: 1
 category: work

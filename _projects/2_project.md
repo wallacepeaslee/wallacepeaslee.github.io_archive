@@ -1,9 +1,9 @@
 ---
 layout: page
-title: ArCH
-description: AI for Cultural Heritage Hub
-img: assets/img/mesolex_gesso_micro_lab_2025-2121x1515.jpg
-redirect: https://www.lib.cam.ac.uk/research-institute/projects/arch
+title: Forbidden Configurations
+description: An ongoing combinatorics project beginning with Budapest Semesters in Mathematics
+img: assets/img/binary-matrix-image.png
+redirect: https://www.combinatorics.org/ojs/index.php/eljc/article/view/DS20
 importance: 2
 category: work
 ---
