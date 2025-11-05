@@ -1,81 +1,15 @@
 ---
 layout: page
-title: Forbidden Configurations
-description: An ongoing combinatorics project beginning with Budapest Semesters in Mathematics
-img: assets/img/binary-matrix-image.png
-redirect: https://www.combinatorics.org/ojs/index.php/eljc/article/view/DS20
+title: Music Manuscript Reconstruction
+description: Recovering notation from degraded music manuscripts.
+img: assets/img/Caius_Choirbook.jpg
 importance: 2
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+I have been working on methods for recovering music notation from degraded or damaged manuscripts, starting earlier this year. A first step in this project was developing some theory around an image quality and contrast measure at {% cite peaslee2025potentialcontrastpropertiesequivalences %}.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+I am fortunate to collaboration on this work with Dr. [Anna Breger](https://homepage.univie.ac.at/anna.breger/?p=480) and many other partners. I coauthored the grant from the 
+Cambridge Centre for Data-Driven Discovery and Accelerate Programme for Scientific Discovery (made possible by a donation from Schmidt Sciences, with Dr. Anna Breger and Prof. Carola-Bibiane Schönlieb as PIs) titled AI meets cultural heritage: Non-invasive imaging and machine learning techniques for the reconstruction of degraded historical sheet music. From the [project announcement](https://science.ai.cam.ac.uk/news/2024-12-09-exploring-novel-applications-of-ai-for-research-and-innovation-%E2%80%93-announcing-our-2024-funded-projects.html)
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+>This project will explore the possibilities, challenges and limitations of imaging and machine learning methods for reconstructing degraded historical sheet music. Such degradations may happen due to chemical or physical damage. The project team will form a novel collaboration network spanning libraries, imaging laboratories and AI imaging researchers. Samples will be selected of musical manuscripts of historical interest and the team will employ advanced imaging systems to scan these manuscripts and apply standard as well as newly developed, advanced machine learning methods to reconstruct the degraded parts.
